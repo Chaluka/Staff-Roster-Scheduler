@@ -1,0 +1,4 @@
+id,fname,lname,address_street,address_suburb,address_city,address_postcode,address_state,job_title,availability_mon,availability_tue,availability_wed,availability_thu,availability_fri
+1001,john,peter,12/447,anzac street,mount waverley,3149,VIC,teacher,8:00-5:00,8:00-4:00,9:00-5:00,8:00-5:00,8:00-2:00
+1002,teena,zhang,115,john street,glen waverley,3162,VIC,manager,8:00-5:00,8:00-4:00,8:00-2:00,8:00-5:00,8:00-6:00
+1003,robert ,segal,U12/45-49,mcgreek avenue,clayton,3168,VIc,teacher,10:00-5:00,9:00-5:00,10:00-5:00,10:00-5:00,10:00-5:00
